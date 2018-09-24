@@ -1,5 +1,8 @@
 _repo: Pleiades-ClubTelegraphers-Paradise-on-Planet-Mars_56450
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56450-h/images/cover.jpg
 creator:
   author:
     agent_name: Hayes, Jeff W.
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '48852'
     url: http://www.gutenberg.org/2009/agents/48852
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56450#Pleiades-ClubTelegraphers-Paradise-on-Planet-Mars
 gutenberg_issued: '2018-01-28'
 gutenberg_type: Text
 identifiers:
